@@ -106,4 +106,4 @@ function clearInputs() {
     document.getElementById("empId").value = "";
     document.getElementById("empSalary").value = "";
     document.getElementById("empDept").value = "";
-}
+} 
